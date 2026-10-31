@@ -39,6 +39,6 @@ Case studies: [jbspraxis.com/work](https://jbspraxis.com/work)
 ### Talk to us
 
 It starts with a free audit: about an hour, on one area of your organisation.
-[Book a free audit and demo](https://jbspraxis.com/schedule) · [info@jbspraxis.com](mailto:info@jbspraxis.com) · [LinkedIn](https://www.linkedin.com/company/jbspraxis) · [X](https://x.com/jbspraxis) · [YouTube](https://www.youtube.com/@jbspraxis)
+[Book a free audit and demo](https://jbspraxis.com/schedule) · [info@jbspraxis.com](mailto:info@jbspraxis.com) · [LinkedIn](https://www.linkedin.com/company/jbspraxis) · [X](https://x.com/jbspraxis) · [YouTube](https://www.youtube.com/@jbspraxis) · [Instagram](https://www.instagram.com/jbspraxis)
 
 <sub>Version française : [jbspraxis.com/fr](https://jbspraxis.com/fr)</sub>
