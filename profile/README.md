@@ -11,12 +11,10 @@ We don’t sell software licences. We design how an area of your organisation sh
 
 ### The Praxis Method
 
-| | |
-|---|---|
-| **See** | We sit with the people who do the work and map how one area really runs: who does what, where the numbers live, where time and money leak. |
-| **Design** | We design how it should run: the process, the controls, who approves what, and the few numbers that matter. |
-| **Build** | We build and configure the system around that design, connect the tools you keep, and move your data across. |
-| **Hold** | We stay until it holds: we train your people, watch the first cycles, fix what the real world reveals, then hand over the keys. |
+- **See:** We sit with the people who do the work and map how one area really runs: who does what, where the numbers live, where time and money leak.
+- **Design:** We design how it should run: the process, the controls, who approves what, and the few numbers that matter.
+- **Build:** We build and configure the system around that design, connect the tools you keep, and move your data across.
+- **Hold:** We stay until it holds: we train your people, watch the first cycles, fix what the real world reveals, then hand over the keys.
 
 You own the code and the data. No per-user licences. English and French from day one.
 
